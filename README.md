@@ -1,14 +1,16 @@
+![Anuj Sharma - Codeforces Solutions](banner.jpg)
+
 # Codeforces Solutions 🚀
 
-Welcome to my Codeforces Solutions repository.
+Welcome to my Codeforces Solutions repository!
 
 This repository contains my solutions to problems I have solved on Codeforces, written in C++. I created this repository to keep my competitive programming journey organized and track my progress over time.
 
-
+```text
 📁 ABOUT ME
 │
-├── 👨‍💻 First-year CSE (AI & ML) Student
-├── 💻 Language: C++
+├── 👨‍💻 First-Year CSE (AI & ML) Student
+├── 💻 Programming Language: C++
 ├── 🧠 Data Structures & Algorithms
 ├── 🏆 Competitive Programming
 └── 🚀 Problem Solving
@@ -45,7 +47,7 @@ This repository contains my solutions to problems I have solved on Codeforces, w
 └── Goal: Solve problems consistently and improve my skills
 
 
-🎯 GOAL
+🎯 MY GOAL
 │
 └── Solve more problems
     ├── Learn better algorithms
@@ -55,3 +57,4 @@ This repository contains my solutions to problems I have solved on Codeforces, w
 
 
 ⭐ Thanks for visiting my repository!
+```
