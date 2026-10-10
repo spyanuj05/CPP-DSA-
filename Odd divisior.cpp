@@ -8,7 +8,7 @@ int main() {
 	int a ;
 	long long b ;
 	cin>>a ;
-	while(a--){
+	while(a--){                // ((n & (n - 1)) != 0)-----yes   it can also used 
 		cin>>b ;
 		while(b%2==0){
 			b /= 2;
